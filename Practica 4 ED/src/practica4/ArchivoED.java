@@ -7,5 +7,8 @@ public class ArchivoED {
 		//Traido del repositorio online
 		System.out.println("Número aleatorio: " + Math.random());
 		System.out.println("Otro número aleatorio: " + Math.random());
+		
+		System.out.println("Número aleatorio: " + Math.random());
+		System.out.println("Otro número aleatorio: " + Math.random());
 	}
 }
